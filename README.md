@@ -10,6 +10,10 @@
 
 搭建核心流程只用了约半小时，但为了调优系统提示词、让生成的用例贴合真实测试标准，花了约两个小时反复迭代。
 
+📦 GitHub: https://github.com/Ning2571/coze-testcase-generator
+
+📦 Gitee:https://gitee.com/livente/coze-testcase-generator
+
 ---
 
 ## 工作流配置说明
